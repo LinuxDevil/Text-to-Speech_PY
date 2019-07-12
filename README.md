@@ -1,4 +1,4 @@
-# Text - to Speach
+# Text to Speach
 Python text-to-speach with your own voice
 
 # Install Python
