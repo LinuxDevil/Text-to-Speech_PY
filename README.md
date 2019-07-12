@@ -13,3 +13,8 @@ sudo brew remove portaudio
 sudo brew install portaudio
 sudo pip3 install pyaudio
 ```
+
+When you want to use it make sure that you record all the English sounds..
+this could help you: 
+https://www.youtube.com/watch?v=KlMDwolcfzU
+and save them under ```sounds``` directory
